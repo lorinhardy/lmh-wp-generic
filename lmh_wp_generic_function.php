@@ -9,6 +9,7 @@
 * @link https://wordpress.org/plugins/ssl-insecure-content-fixer/ "SSL Insecure Content Fixer -- removes loading-over-http errors."
 * @link https://wordpress.org/plugins/post-smtp/ "Postman SMTP -- makes emailing from Wordpress easy to do from another account."
 * @link https://wordpress.org/plugins/wordfence/ "Wordfence Security -- firewall and malware protection for Wordpress."
+* @link https://wordpress.org/plugins/wp-optimize/ "WP Optimize -- cleans up excess junk...like post revisions."
 */
 
 function custom_login_logo() {
